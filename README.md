@@ -60,7 +60,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Moises-Falcon&theme=tokyonight&show_icons=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moises-Falcon&theme=tokyonight" width="49%" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Falcon&layout=compact&theme=tokyonight" width="50%"/>
 </div>
