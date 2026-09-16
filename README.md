@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td>
-        <img src="MFP.jpg" width="180" style="border-radius: 10px;" alt="Moises Falcon Profile Photo"/>
+        <img src="MFP1.jpg" width="180" style="border-radius: 10px;" alt="Moises Falcon Profile Photo"/>
       </td>
       <td>
         <p align="left">
