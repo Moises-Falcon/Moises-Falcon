@@ -11,7 +11,7 @@
         <h1 align="left"><strong>MOISES FALCON PACHECO</strong></h1>
         <p align="left">
           <a href="mailto:moisesjrfalcon@gmail.com">📧 moisesjrfalcon@gmail.com</a> • 
-          <a href="https://www.linkedin.com/in/moises-falcon-pacheco-2b6b92324/" target="_blank">🌐 LinkedIn</a> • 
+          <a href="https://www.linkedin.com/in/moises-falcon-pacheco/" target="_blank">🌐 LinkedIn</a> • 
           📍 Mexico
         </p>
       </td>
